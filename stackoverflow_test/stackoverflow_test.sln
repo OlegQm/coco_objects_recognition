@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "stackoverflow_test", "stackoverflow_test.pyproj", "{60D4EF6F-4E01-49FC-9CA3-A906D9E3683F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D4EF6F-4E01-49FC-9CA3-A906D9E3683F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D4EF6F-4E01-49FC-9CA3-A906D9E3683F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6DAEECE-BABB-49F6-AC4F-AF2313DE8408}
+	EndGlobalSection
+EndGlobal
